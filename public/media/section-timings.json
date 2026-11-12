@@ -1,0 +1,2122 @@
+{
+  "solfege-1": {
+    "scriptHash": "bda6991a7704978ae6937f9a8a0272a1efa9d2053d09bda81c4123270b9d7330",
+    "sections": [
+      {
+        "title": "Introduction",
+        "kind": "intro",
+        "startSeconds": 0.0,
+        "endSeconds": 20.103291666666667
+      },
+      {
+        "title": "Au programme",
+        "kind": "roadmap",
+        "startSeconds": 20.103291666666667,
+        "endSeconds": 36.18129166666667
+      },
+      {
+        "title": "Chapitre 1 · Les sept noms de notes",
+        "kind": "chapter",
+        "startSeconds": 36.18129166666667,
+        "endSeconds": 54.721291666666666
+      },
+      {
+        "title": "Chapitre 2 · Cherche les motifs",
+        "kind": "chapter",
+        "startSeconds": 54.721291666666666,
+        "endSeconds": 73.47458333333333
+      },
+      {
+        "title": "Chapitre 3 · À retenir",
+        "kind": "chapter",
+        "startSeconds": 73.47458333333333,
+        "endSeconds": 89.4105
+      },
+      {
+        "title": "À toi de jouer · La petite promenade",
+        "kind": "practice",
+        "startSeconds": 89.4105,
+        "endSeconds": 104.26775
+      },
+      {
+        "title": "À retenir",
+        "kind": "takeaways",
+        "startSeconds": 104.26775,
+        "endSeconds": 110.96841666666667
+      },
+      {
+        "title": "Conclusion · les repères à retenir",
+        "kind": "recap",
+        "startSeconds": 110.96841666666667,
+        "endSeconds": 130.70641666666666
+      }
+    ]
+  },
+  "piano-1": {
+    "scriptHash": "9d305dfb472c2a446e50f2aafd4d48900814f5c43d909b38dcb7ae098984d290",
+    "sections": [
+      {
+        "title": "Introduction",
+        "kind": "intro",
+        "startSeconds": 0.0,
+        "endSeconds": 19.208666666666666
+      },
+      {
+        "title": "Au programme",
+        "kind": "roadmap",
+        "startSeconds": 19.208666666666666,
+        "endSeconds": 35.606625
+      },
+      {
+        "title": "Chapitre 1 · Lis les groupes noirs",
+        "kind": "chapter",
+        "startSeconds": 35.606625,
+        "endSeconds": 54.04329166666667
+      },
+      {
+        "title": "Chapitre 2 · Trouve Do",
+        "kind": "chapter",
+        "startSeconds": 54.04329166666667,
+        "endSeconds": 71.70383333333334
+      },
+      {
+        "title": "Chapitre 3 · Posture avant vitesse",
+        "kind": "chapter",
+        "startSeconds": 71.70383333333334,
+        "endSeconds": 89.75775
+      },
+      {
+        "title": "À toi de jouer · La chasse aux repères",
+        "kind": "practice",
+        "startSeconds": 89.75775,
+        "endSeconds": 104.93433333333333
+      },
+      {
+        "title": "À retenir",
+        "kind": "takeaways",
+        "startSeconds": 104.93433333333333,
+        "endSeconds": 111.80566666666667
+      },
+      {
+        "title": "Conclusion · les repères à retenir",
+        "kind": "recap",
+        "startSeconds": 111.80566666666667,
+        "endSeconds": 132.19433333333333
+      }
+    ]
+  },
+  "technique-1": {
+    "scriptHash": "1a0e94e8283faf4cff35aac0b9a98d7b60704b87aa24c3d1b2e018e7cbf78f53",
+    "sections": [
+      {
+        "title": "Introduction",
+        "kind": "intro",
+        "startSeconds": 0.0,
+        "endSeconds": 19.49
+      },
+      {
+        "title": "Au programme",
+        "kind": "roadmap",
+        "startSeconds": 19.49,
+        "endSeconds": 36.95466666666667
+      },
+      {
+        "title": "Chapitre 1 · Le banc et le clavier",
+        "kind": "chapter",
+        "startSeconds": 36.95466666666667,
+        "endSeconds": 55.034
+      },
+      {
+        "title": "Chapitre 2 · Une main naturellement arrondie",
+        "kind": "chapter",
+        "startSeconds": 55.034,
+        "endSeconds": 71.314
+      },
+      {
+        "title": "Chapitre 3 · Le son vient d’un geste libre",
+        "kind": "chapter",
+        "startSeconds": 71.314,
+        "endSeconds": 88.07533333333333
+      },
+      {
+        "title": "À toi de jouer · Le geste souple",
+        "kind": "practice",
+        "startSeconds": 88.07533333333333,
+        "endSeconds": 102.75591666666666
+      },
+      {
+        "title": "À retenir",
+        "kind": "takeaways",
+        "startSeconds": 102.75591666666666,
+        "endSeconds": 112.05316666666667
+      },
+      {
+        "title": "Conclusion · les repères à retenir",
+        "kind": "recap",
+        "startSeconds": 112.05316666666667,
+        "endSeconds": 131.53045833333334
+      }
+    ]
+  },
+  "rythme-1": {
+    "scriptHash": "dc359759ec242d9bb7745a909aff866561aeac9647e56e75553905a807e9d8f9",
+    "sections": [
+      {
+        "title": "Introduction",
+        "kind": "intro",
+        "startSeconds": 0.0,
+        "endSeconds": 20.148625
+      },
+      {
+        "title": "Au programme",
+        "kind": "roadmap",
+        "startSeconds": 20.148625,
+        "endSeconds": 37.358583333333335
+      },
+      {
+        "title": "Chapitre 1 · La pulsation, le cœur régulier",
+        "kind": "chapter",
+        "startSeconds": 37.358583333333335,
+        "endSeconds": 56.32525
+      },
+      {
+        "title": "Chapitre 2 · Mesure à quatre temps",
+        "kind": "chapter",
+        "startSeconds": 56.32525,
+        "endSeconds": 74.74725
+      },
+      {
+        "title": "Chapitre 3 · Écoute avant de jouer",
+        "kind": "chapter",
+        "startSeconds": 74.74725,
+        "endSeconds": 90.55258333333333
+      },
+      {
+        "title": "À toi de jouer · Quatre pulsations tranquilles",
+        "kind": "practice",
+        "startSeconds": 90.55258333333333,
+        "endSeconds": 102.71258333333333
+      },
+      {
+        "title": "À retenir",
+        "kind": "takeaways",
+        "startSeconds": 102.71258333333333,
+        "endSeconds": 110.90658333333333
+      },
+      {
+        "title": "Conclusion · les repères à retenir",
+        "kind": "recap",
+        "startSeconds": 110.90658333333333,
+        "endSeconds": 133.01058333333333
+      }
+    ]
+  },
+  "history-1": {
+    "scriptHash": "ae820ea8cbd32fb6ea0ace45ac1cc6ddaff1f60d9fd1360044a3ff5bb797575b",
+    "sections": [
+      {
+        "title": "Introduction",
+        "kind": "intro",
+        "startSeconds": 0.0,
+        "endSeconds": 21.483958333333334
+      },
+      {
+        "title": "Au programme",
+        "kind": "roadmap",
+        "startSeconds": 21.483958333333334,
+        "endSeconds": 42.14183333333333
+      },
+      {
+        "title": "Chapitre 1 · Trois claviers, trois façons de faire vibrer",
+        "kind": "chapter",
+        "startSeconds": 42.14183333333333,
+        "endSeconds": 82.7185
+      },
+      {
+        "title": "Chapitre 2 · Le défi de Cristofori",
+        "kind": "chapter",
+        "startSeconds": 82.7185,
+        "endSeconds": 124.63979166666667
+      },
+      {
+        "title": "Chapitre 3 · De la touche à la corde : la mécanique",
+        "kind": "chapter",
+        "startSeconds": 124.63979166666667,
+        "endSeconds": 165.871125
+      },
+      {
+        "title": "Chapitre 4 · Du pianoforte de Cristofori au piano",
+        "kind": "chapter",
+        "startSeconds": 165.871125,
+        "endSeconds": 207.71041666666667
+      },
+      {
+        "title": "À toi de jouer · Écouter le toucher",
+        "kind": "practice",
+        "startSeconds": 207.71041666666667,
+        "endSeconds": 223.19570833333333
+      },
+      {
+        "title": "À retenir",
+        "kind": "takeaways",
+        "startSeconds": 223.19570833333333,
+        "endSeconds": 244.25629166666667
+      },
+      {
+        "title": "Conclusion · les repères à retenir",
+        "kind": "recap",
+        "startSeconds": 244.25629166666667,
+        "endSeconds": 279.99358333333333
+      }
+    ]
+  },
+  "solfege-2": {
+    "scriptHash": "104c1b2d6dda8e401cff4957731d71999080e81770d8a99549c02fceff4e71f1",
+    "sections": [
+      {
+        "title": "Introduction",
+        "kind": "intro",
+        "startSeconds": 0.0,
+        "endSeconds": 19.933916666666665
+      },
+      {
+        "title": "Au programme",
+        "kind": "roadmap",
+        "startSeconds": 19.933916666666665,
+        "endSeconds": 35.83658333333333
+      },
+      {
+        "title": "Chapitre 1 · La portée",
+        "kind": "chapter",
+        "startSeconds": 35.83658333333333,
+        "endSeconds": 54.142541666666666
+      },
+      {
+        "title": "Chapitre 2 · La clé de sol",
+        "kind": "chapter",
+        "startSeconds": 54.142541666666666,
+        "endSeconds": 71.52254166666667
+      },
+      {
+        "title": "Chapitre 3 · Lire, chanter, jouer",
+        "kind": "chapter",
+        "startSeconds": 71.52254166666667,
+        "endSeconds": 88.40916666666666
+      },
+      {
+        "title": "À toi de jouer · La portée chante",
+        "kind": "practice",
+        "startSeconds": 88.40916666666666,
+        "endSeconds": 102.99116666666667
+      },
+      {
+        "title": "À retenir",
+        "kind": "takeaways",
+        "startSeconds": 102.99116666666667,
+        "endSeconds": 109.37183333333333
+      },
+      {
+        "title": "Conclusion · les repères à retenir",
+        "kind": "recap",
+        "startSeconds": 109.37183333333333,
+        "endSeconds": 128.65783333333334
+      }
+    ]
+  },
+  "piano-2": {
+    "scriptHash": "e19a026040765aa3c6102ac587600a436423c2425b7ddb069d3dec1add4c229a",
+    "sections": [
+      {
+        "title": "Introduction",
+        "kind": "intro",
+        "startSeconds": 0.0,
+        "endSeconds": 19.680625
+      },
+      {
+        "title": "Au programme",
+        "kind": "roadmap",
+        "startSeconds": 19.680625,
+        "endSeconds": 37.688541666666666
+      },
+      {
+        "title": "Chapitre 1 · Une position de départ confortable",
+        "kind": "chapter",
+        "startSeconds": 37.688541666666666,
+        "endSeconds": 54.80920833333333
+      },
+      {
+        "title": "Chapitre 2 · Construis une phrase",
+        "kind": "chapter",
+        "startSeconds": 54.80920833333333,
+        "endSeconds": 73.54841666666667
+      },
+      {
+        "title": "Chapitre 3 · Trois répétitions utiles",
+        "kind": "chapter",
+        "startSeconds": 73.54841666666667,
+        "endSeconds": 91.44841666666666
+      },
+      {
+        "title": "À toi de jouer · Une phrase qui monte et redescend",
+        "kind": "practice",
+        "startSeconds": 91.44841666666666,
+        "endSeconds": 107.17975
+      },
+      {
+        "title": "À retenir",
+        "kind": "takeaways",
+        "startSeconds": 107.17975,
+        "endSeconds": 115.99241666666667
+      },
+      {
+        "title": "Conclusion · les repères à retenir",
+        "kind": "recap",
+        "startSeconds": 115.99241666666667,
+        "endSeconds": 135.41708333333332
+      }
+    ]
+  },
+  "theory-1": {
+    "scriptHash": "2af4c69c0c648f415372f7dd3a3f482b1de96f3f882f05781e40bbce306dcd07",
+    "sections": [
+      {
+        "title": "Introduction",
+        "kind": "intro",
+        "startSeconds": 0.0,
+        "endSeconds": 20.017958333333333
+      },
+      {
+        "title": "Au programme",
+        "kind": "roadmap",
+        "startSeconds": 20.017958333333333,
+        "endSeconds": 37.463875
+      },
+      {
+        "title": "Chapitre 1 · La gamme, une famille de notes",
+        "kind": "chapter",
+        "startSeconds": 37.463875,
+        "endSeconds": 55.05520833333333
+      },
+      {
+        "title": "Chapitre 2 · Le motif majeur",
+        "kind": "chapter",
+        "startSeconds": 55.05520833333333,
+        "endSeconds": 73.27716666666667
+      },
+      {
+        "title": "Chapitre 3 · Le lien avec le clavier",
+        "kind": "chapter",
+        "startSeconds": 73.27716666666667,
+        "endSeconds": 89.9585
+      },
+      {
+        "title": "À toi de jouer · La gamme de Do majeur",
+        "kind": "practice",
+        "startSeconds": 89.9585,
+        "endSeconds": 106.72116666666666
+      },
+      {
+        "title": "À retenir",
+        "kind": "takeaways",
+        "startSeconds": 106.72116666666666,
+        "endSeconds": 114.8725
+      },
+      {
+        "title": "Conclusion · les repères à retenir",
+        "kind": "recap",
+        "startSeconds": 114.8725,
+        "endSeconds": 135.26845833333334
+      }
+    ]
+  },
+  "repertoire-1": {
+    "scriptHash": "0c6d1f6eca6c3cb9369e84a2e12783bef7d8f8ff818c8c37b78e2f5487ac9e72",
+    "sections": [
+      {
+        "title": "Introduction",
+        "kind": "intro",
+        "startSeconds": 0.0,
+        "endSeconds": 20.289291666666667
+      },
+      {
+        "title": "Au programme",
+        "kind": "roadmap",
+        "startSeconds": 20.289291666666667,
+        "endSeconds": 38.044583333333335
+      },
+      {
+        "title": "Chapitre 1 · Observer la page",
+        "kind": "chapter",
+        "startSeconds": 38.044583333333335,
+        "endSeconds": 55.445875
+      },
+      {
+        "title": "Chapitre 2 · Lire aussi ce qui n’est pas une note",
+        "kind": "chapter",
+        "startSeconds": 55.445875,
+        "endSeconds": 72.80254166666667
+      },
+      {
+        "title": "Chapitre 3 · Préparer avant d’exécuter",
+        "kind": "chapter",
+        "startSeconds": 72.80254166666667,
+        "endSeconds": 89.97854166666667
+      },
+      {
+        "title": "À toi de jouer · Lire puis jouer",
+        "kind": "practice",
+        "startSeconds": 89.97854166666667,
+        "endSeconds": 104.50654166666666
+      },
+      {
+        "title": "À retenir",
+        "kind": "takeaways",
+        "startSeconds": 104.50654166666666,
+        "endSeconds": 113.705875
+      },
+      {
+        "title": "Conclusion · les repères à retenir",
+        "kind": "recap",
+        "startSeconds": 113.705875,
+        "endSeconds": 134.2845
+      }
+    ]
+  },
+  "styles-1": {
+    "scriptHash": "4f53fd54e72a84015b18ce3e88992598f9c9d6cbc4a55a8ea21becca75506ead",
+    "sections": [
+      {
+        "title": "Introduction",
+        "kind": "intro",
+        "startSeconds": 0.0,
+        "endSeconds": 20.134666666666668
+      },
+      {
+        "title": "Au programme",
+        "kind": "roadmap",
+        "startSeconds": 20.134666666666668,
+        "endSeconds": 37.379958333333335
+      },
+      {
+        "title": "Chapitre 1 · Un dialogue de voix",
+        "kind": "chapter",
+        "startSeconds": 37.379958333333335,
+        "endSeconds": 54.571958333333335
+      },
+      {
+        "title": "Chapitre 2 · Une articulation lisible",
+        "kind": "chapter",
+        "startSeconds": 54.571958333333335,
+        "endSeconds": 73.154625
+      },
+      {
+        "title": "Chapitre 3 · Bach, un repère majeur",
+        "kind": "chapter",
+        "startSeconds": 73.154625,
+        "endSeconds": 92.03791666666666
+      },
+      {
+        "title": "À toi de jouer · Un motif en dialogue",
+        "kind": "practice",
+        "startSeconds": 92.03791666666666,
+        "endSeconds": 107.81725
+      },
+      {
+        "title": "À retenir",
+        "kind": "takeaways",
+        "startSeconds": 107.81725,
+        "endSeconds": 117.6865
+      },
+      {
+        "title": "Conclusion · les repères à retenir",
+        "kind": "recap",
+        "startSeconds": 117.6865,
+        "endSeconds": 138.9845
+      }
+    ]
+  },
+  "history-2": {
+    "scriptHash": "92a13f8bc6c5f1d8e505bf7f029f4ca3671a7a519e7c2451c5bf5582e2384775",
+    "sections": [
+      {
+        "title": "Introduction",
+        "kind": "intro",
+        "startSeconds": 0.0,
+        "endSeconds": 20.020666666666667
+      },
+      {
+        "title": "Au programme",
+        "kind": "roadmap",
+        "startSeconds": 20.020666666666667,
+        "endSeconds": 40.61720833333333
+      },
+      {
+        "title": "Chapitre 1 · Le pianoforte change selon les ateliers",
+        "kind": "chapter",
+        "startSeconds": 40.61720833333333,
+        "endSeconds": 77.67454166666667
+      },
+      {
+        "title": "Chapitre 2 · La forme sonate : présenter, transformer, revenir",
+        "kind": "chapter",
+        "startSeconds": 77.67454166666667,
+        "endSeconds": 116.169875
+      },
+      {
+        "title": "Chapitre 3 · Haydn, Mozart et Beethoven : trois voix différentes",
+        "kind": "chapter",
+        "startSeconds": 116.169875,
+        "endSeconds": 153.46320833333334
+      },
+      {
+        "title": "À toi de jouer · Question et réponse",
+        "kind": "practice",
+        "startSeconds": 153.46320833333334,
+        "endSeconds": 168.77054166666667
+      },
+      {
+        "title": "À retenir",
+        "kind": "takeaways",
+        "startSeconds": 168.77054166666667,
+        "endSeconds": 187.415875
+      },
+      {
+        "title": "Conclusion · les repères à retenir",
+        "kind": "recap",
+        "startSeconds": 187.415875,
+        "endSeconds": 209.96383333333333
+      }
+    ]
+  },
+  "ear-1": {
+    "scriptHash": "907ab78ab083449054be0656581c2618a7d14f2dc91a8edd28cc39522ebf7ad0",
+    "sections": [
+      {
+        "title": "Introduction",
+        "kind": "intro",
+        "startSeconds": 0.0,
+        "endSeconds": 19.388
+      },
+      {
+        "title": "Au programme",
+        "kind": "roadmap",
+        "startSeconds": 19.388,
+        "endSeconds": 36.106625
+      },
+      {
+        "title": "Chapitre 1 · Écouter le contour",
+        "kind": "chapter",
+        "startSeconds": 36.106625,
+        "endSeconds": 52.419958333333334
+      },
+      {
+        "title": "Chapitre 2 · Pas à pas ou par saut ?",
+        "kind": "chapter",
+        "startSeconds": 52.419958333333334,
+        "endSeconds": 68.7665
+      },
+      {
+        "title": "Chapitre 3 · Chante avant de jouer",
+        "kind": "chapter",
+        "startSeconds": 68.7665,
+        "endSeconds": 85.04445833333334
+      },
+      {
+        "title": "À toi de jouer · Le motif des pas et des sauts",
+        "kind": "practice",
+        "startSeconds": 85.04445833333334,
+        "endSeconds": 99.31779166666666
+      },
+      {
+        "title": "À retenir",
+        "kind": "takeaways",
+        "startSeconds": 99.31779166666666,
+        "endSeconds": 106.80845833333333
+      },
+      {
+        "title": "Conclusion · les repères à retenir",
+        "kind": "recap",
+        "startSeconds": 106.80845833333333,
+        "endSeconds": 126.130375
+      }
+    ]
+  },
+  "piano-3": {
+    "scriptHash": "f3555959a62cd21cdee063eed7312fcf2d116d11f0b629ee405f3f3d1f418200",
+    "sections": [
+      {
+        "title": "Introduction",
+        "kind": "intro",
+        "startSeconds": 0.0,
+        "endSeconds": 19.208666666666666
+      },
+      {
+        "title": "Au programme",
+        "kind": "roadmap",
+        "startSeconds": 19.208666666666666,
+        "endSeconds": 36.454625
+      },
+      {
+        "title": "Chapitre 1 · Deux rôles qui se complètent",
+        "kind": "chapter",
+        "startSeconds": 36.454625,
+        "endSeconds": 52.714625
+      },
+      {
+        "title": "Chapitre 2 · Séparer avant de réunir",
+        "kind": "chapter",
+        "startSeconds": 52.714625,
+        "endSeconds": 68.70325
+      },
+      {
+        "title": "Chapitre 3 · Le premier appui",
+        "kind": "chapter",
+        "startSeconds": 68.70325,
+        "endSeconds": 84.68454166666666
+      },
+      {
+        "title": "À toi de jouer · La mélodie et son appui",
+        "kind": "practice",
+        "startSeconds": 84.68454166666666,
+        "endSeconds": 99.5885
+      },
+      {
+        "title": "À retenir",
+        "kind": "takeaways",
+        "startSeconds": 99.5885,
+        "endSeconds": 107.35583333333334
+      },
+      {
+        "title": "Conclusion · les repères à retenir",
+        "kind": "recap",
+        "startSeconds": 107.35583333333334,
+        "endSeconds": 127.6125
+      }
+    ]
+  },
+  "solfege-3": {
+    "scriptHash": "3c6f5cf5811a796c047393b2d1843c30f837a943e20ec0dba959850bf8742d71",
+    "sections": [
+      {
+        "title": "Introduction",
+        "kind": "intro",
+        "startSeconds": 0.0,
+        "endSeconds": 20.454666666666668
+      },
+      {
+        "title": "Au programme",
+        "kind": "roadmap",
+        "startSeconds": 20.454666666666668,
+        "endSeconds": 36.96395833333333
+      },
+      {
+        "title": "Chapitre 1 · Une noire, un temps",
+        "kind": "chapter",
+        "startSeconds": 36.96395833333333,
+        "endSeconds": 52.325916666666664
+      },
+      {
+        "title": "Chapitre 2 · La blanche dure deux temps",
+        "kind": "chapter",
+        "startSeconds": 52.325916666666664,
+        "endSeconds": 68.61525
+      },
+      {
+        "title": "Chapitre 3 · Compte en jouant",
+        "kind": "chapter",
+        "startSeconds": 68.61525,
+        "endSeconds": 83.547875
+      },
+      {
+        "title": "À toi de jouer · Noires et blanches en 4/4",
+        "kind": "practice",
+        "startSeconds": 83.547875,
+        "endSeconds": 94.397875
+      },
+      {
+        "title": "À retenir",
+        "kind": "takeaways",
+        "startSeconds": 94.397875,
+        "endSeconds": 101.415875
+      },
+      {
+        "title": "Conclusion · les repères à retenir",
+        "kind": "recap",
+        "startSeconds": 101.415875,
+        "endSeconds": 121.0765
+      }
+    ]
+  },
+  "rythme-2": {
+    "scriptHash": "c4a181df4f1daaaa5c0cf806fdae52d48a8c8e59709c881117bc58ac73b65da4",
+    "sections": [
+      {
+        "title": "Introduction",
+        "kind": "intro",
+        "startSeconds": 0.0,
+        "endSeconds": 20.65925
+      },
+      {
+        "title": "Au programme",
+        "kind": "roadmap",
+        "startSeconds": 20.65925,
+        "endSeconds": 38.17191666666667
+      },
+      {
+        "title": "Chapitre 1 · Partager un temps en deux",
+        "kind": "chapter",
+        "startSeconds": 38.17191666666667,
+        "endSeconds": 53.613875
+      },
+      {
+        "title": "Chapitre 2 · Le métronome comme compagnon",
+        "kind": "chapter",
+        "startSeconds": 53.613875,
+        "endSeconds": 69.16320833333333
+      },
+      {
+        "title": "Chapitre 3 · Garder le corps détendu",
+        "kind": "chapter",
+        "startSeconds": 69.16320833333333,
+        "endSeconds": 84.9685
+      },
+      {
+        "title": "À toi de jouer · Un-et, deux-et",
+        "kind": "practice",
+        "startSeconds": 84.9685,
+        "endSeconds": 97.02045833333334
+      },
+      {
+        "title": "À retenir",
+        "kind": "takeaways",
+        "startSeconds": 97.02045833333334,
+        "endSeconds": 105.321125
+      },
+      {
+        "title": "Conclusion · les repères à retenir",
+        "kind": "recap",
+        "startSeconds": 105.321125,
+        "endSeconds": 125.585125
+      }
+    ]
+  },
+  "theory-2": {
+    "scriptHash": "74c17d1d4c6edd618a43d9982cdcc7b304c937491dcf9046a94e401e629da16f",
+    "sections": [
+      {
+        "title": "Introduction",
+        "kind": "intro",
+        "startSeconds": 0.0,
+        "endSeconds": 20.597958333333334
+      },
+      {
+        "title": "Au programme",
+        "kind": "roadmap",
+        "startSeconds": 20.597958333333334,
+        "endSeconds": 37.651291666666665
+      },
+      {
+        "title": "Chapitre 1 · Empiler une note sur trois",
+        "kind": "chapter",
+        "startSeconds": 37.651291666666665,
+        "endSeconds": 52.53058333333333
+      },
+      {
+        "title": "Chapitre 2 · L’accord de Do majeur",
+        "kind": "chapter",
+        "startSeconds": 52.53058333333333,
+        "endSeconds": 68.39858333333333
+      },
+      {
+        "title": "Chapitre 3 · L’écoute de l’accord",
+        "kind": "chapter",
+        "startSeconds": 68.39858333333333,
+        "endSeconds": 84.237875
+      },
+      {
+        "title": "À toi de jouer · Do, Mi, Sol : le premier accord",
+        "kind": "practice",
+        "startSeconds": 84.237875,
+        "endSeconds": 99.765875
+      },
+      {
+        "title": "À retenir",
+        "kind": "takeaways",
+        "startSeconds": 99.765875,
+        "endSeconds": 107.36254166666667
+      },
+      {
+        "title": "Conclusion · les repères à retenir",
+        "kind": "recap",
+        "startSeconds": 107.36254166666667,
+        "endSeconds": 127.127125
+      }
+    ]
+  },
+  "piano-4": {
+    "scriptHash": "56bb9a4b42179d74163593cb775f7781f2ec7c37c234d8018ed8b29db11e722d",
+    "sections": [
+      {
+        "title": "Introduction",
+        "kind": "intro",
+        "startSeconds": 0.0,
+        "endSeconds": 19.529958333333333
+      },
+      {
+        "title": "Au programme",
+        "kind": "roadmap",
+        "startSeconds": 19.529958333333333,
+        "endSeconds": 36.547916666666666
+      },
+      {
+        "title": "Chapitre 1 · Préparer le passage du pouce",
+        "kind": "chapter",
+        "startSeconds": 36.547916666666666,
+        "endSeconds": 53.84258333333333
+      },
+      {
+        "title": "Chapitre 2 · Un doigté de départ",
+        "kind": "chapter",
+        "startSeconds": 53.84258333333333,
+        "endSeconds": 70.76054166666667
+      },
+      {
+        "title": "Chapitre 3 · Qualité du son",
+        "kind": "chapter",
+        "startSeconds": 70.76054166666667,
+        "endSeconds": 86.131875
+      },
+      {
+        "title": "À toi de jouer · La gamme sans heurt",
+        "kind": "practice",
+        "startSeconds": 86.131875,
+        "endSeconds": 102.603875
+      },
+      {
+        "title": "À retenir",
+        "kind": "takeaways",
+        "startSeconds": 102.603875,
+        "endSeconds": 110.37120833333333
+      },
+      {
+        "title": "Conclusion · les repères à retenir",
+        "kind": "recap",
+        "startSeconds": 110.37120833333333,
+        "endSeconds": 130.44316666666666
+      }
+    ]
+  },
+  "technique-2": {
+    "scriptHash": "f3eb208f64a657e923bb8abd5ff3d5df91172286b93f14c0be2b121132da696f",
+    "sections": [
+      {
+        "title": "Introduction",
+        "kind": "intro",
+        "startSeconds": 0.0,
+        "endSeconds": 20.000625
+      },
+      {
+        "title": "Au programme",
+        "kind": "roadmap",
+        "startSeconds": 20.000625,
+        "endSeconds": 37.160625
+      },
+      {
+        "title": "Chapitre 1 · Un numéro par doigt",
+        "kind": "chapter",
+        "startSeconds": 37.160625,
+        "endSeconds": 54.52729166666666
+      },
+      {
+        "title": "Chapitre 2 · Le pouce passe, la main accompagne",
+        "kind": "chapter",
+        "startSeconds": 54.52729166666666,
+        "endSeconds": 71.390625
+      },
+      {
+        "title": "Chapitre 3 · Legato sans tension",
+        "kind": "chapter",
+        "startSeconds": 71.390625,
+        "endSeconds": 88.272625
+      },
+      {
+        "title": "À toi de jouer · La gamme avec un doigté stable",
+        "kind": "practice",
+        "startSeconds": 88.272625,
+        "endSeconds": 104.9625
+      },
+      {
+        "title": "À retenir",
+        "kind": "takeaways",
+        "startSeconds": 104.9625,
+        "endSeconds": 114.74241666666667
+      },
+      {
+        "title": "Conclusion · les repères à retenir",
+        "kind": "recap",
+        "startSeconds": 114.74241666666667,
+        "endSeconds": 135.18370833333333
+      }
+    ]
+  },
+  "repertoire-2": {
+    "scriptHash": "e9343ba83cc9292111af0a1ade1890ae1ebc22b347790ab0fe34fa4473df9e37",
+    "sections": [
+      {
+        "title": "Introduction",
+        "kind": "intro",
+        "startSeconds": 0.0,
+        "endSeconds": 19.936666666666667
+      },
+      {
+        "title": "Au programme",
+        "kind": "roadmap",
+        "startSeconds": 19.936666666666667,
+        "endSeconds": 37.584625
+      },
+      {
+        "title": "Chapitre 1 · Choisir une petite unité",
+        "kind": "chapter",
+        "startSeconds": 37.584625,
+        "endSeconds": 55.120625
+      },
+      {
+        "title": "Chapitre 2 · Séparer puis réunir",
+        "kind": "chapter",
+        "startSeconds": 55.120625,
+        "endSeconds": 72.33195833333333
+      },
+      {
+        "title": "Chapitre 3 · Répéter avec une intention",
+        "kind": "chapter",
+        "startSeconds": 72.33195833333333,
+        "endSeconds": 90.83529166666666
+      },
+      {
+        "title": "À toi de jouer · Une phrase, trois attentions",
+        "kind": "practice",
+        "startSeconds": 90.83529166666666,
+        "endSeconds": 107.536625
+      },
+      {
+        "title": "À retenir",
+        "kind": "takeaways",
+        "startSeconds": 107.536625,
+        "endSeconds": 117.197875
+      },
+      {
+        "title": "Conclusion · les repères à retenir",
+        "kind": "recap",
+        "startSeconds": 117.197875,
+        "endSeconds": 138.06320833333334
+      }
+    ]
+  },
+  "styles-2": {
+    "scriptHash": "fa10226a0152187ca252cd8e1550f90f07c2b9ad553378858b0ec77e1a4719bb",
+    "sections": [
+      {
+        "title": "Introduction",
+        "kind": "intro",
+        "startSeconds": 0.0,
+        "endSeconds": 19.845958333333332
+      },
+      {
+        "title": "Au programme",
+        "kind": "roadmap",
+        "startSeconds": 19.845958333333332,
+        "endSeconds": 36.697291666666665
+      },
+      {
+        "title": "Chapitre 1 · La mélodie en premier plan",
+        "kind": "chapter",
+        "startSeconds": 36.697291666666665,
+        "endSeconds": 53.88191666666667
+      },
+      {
+        "title": "Chapitre 2 · Des phrases symétriques",
+        "kind": "chapter",
+        "startSeconds": 53.88191666666667,
+        "endSeconds": 71.37254166666666
+      },
+      {
+        "title": "Chapitre 3 · Équilibrer le son",
+        "kind": "chapter",
+        "startSeconds": 71.37254166666666,
+        "endSeconds": 88.333875
+      },
+      {
+        "title": "À toi de jouer · Une phrase équilibrée",
+        "kind": "practice",
+        "startSeconds": 88.333875,
+        "endSeconds": 103.983875
+      },
+      {
+        "title": "À retenir",
+        "kind": "takeaways",
+        "startSeconds": 103.983875,
+        "endSeconds": 113.821875
+      },
+      {
+        "title": "Conclusion · les repères à retenir",
+        "kind": "recap",
+        "startSeconds": 113.821875,
+        "endSeconds": 134.60245833333335
+      }
+    ]
+  },
+  "evaluation-1": {
+    "scriptHash": "2c41112a83e6a0d1a6fa16c1591dd46f71d77824283bce834b3530a35ec355a3",
+    "sections": [
+      {
+        "title": "Introduction",
+        "kind": "intro",
+        "startSeconds": 0.0,
+        "endSeconds": 20.670625
+      },
+      {
+        "title": "Au programme",
+        "kind": "roadmap",
+        "startSeconds": 20.670625,
+        "endSeconds": 35.038625
+      },
+      {
+        "title": "Chapitre 1 · Avant le bilan",
+        "kind": "chapter",
+        "startSeconds": 35.038625,
+        "endSeconds": 54.48925
+      },
+      {
+        "title": "Chapitre 2 · Comment l’utiliser",
+        "kind": "chapter",
+        "startSeconds": 54.48925,
+        "endSeconds": 73.28858333333334
+      },
+      {
+        "title": "À toi de jouer · Échauffement du bilan",
+        "kind": "practice",
+        "startSeconds": 73.28858333333334,
+        "endSeconds": 88.28054166666666
+      },
+      {
+        "title": "À retenir",
+        "kind": "takeaways",
+        "startSeconds": 88.28054166666666,
+        "endSeconds": 93.95720833333333
+      },
+      {
+        "title": "Conclusion · les repères à retenir",
+        "kind": "recap",
+        "startSeconds": 93.95720833333333,
+        "endSeconds": 114.40854166666666
+      }
+    ]
+  },
+  "ear-2": {
+    "scriptHash": "ac6b2adb46570571e1ba02e2cc8a24b4236901b99022b2ecf727e9a5f11918e1",
+    "sections": [
+      {
+        "title": "Introduction",
+        "kind": "intro",
+        "startSeconds": 0.0,
+        "endSeconds": 20.137291666666666
+      },
+      {
+        "title": "Au programme",
+        "kind": "roadmap",
+        "startSeconds": 20.137291666666666,
+        "endSeconds": 38.16525
+      },
+      {
+        "title": "Chapitre 1 · L’intervalle, une distance sonore",
+        "kind": "chapter",
+        "startSeconds": 38.16525,
+        "endSeconds": 54.661875
+      },
+      {
+        "title": "Chapitre 2 · Comparer plutôt que deviner",
+        "kind": "chapter",
+        "startSeconds": 54.661875,
+        "endSeconds": 71.50916666666667
+      },
+      {
+        "title": "Chapitre 3 · Chanter pour mémoriser",
+        "kind": "chapter",
+        "startSeconds": 71.50916666666667,
+        "endSeconds": 87.61579166666667
+      },
+      {
+        "title": "À toi de jouer · Petits pas, grands sauts",
+        "kind": "practice",
+        "startSeconds": 87.61579166666667,
+        "endSeconds": 101.72845833333334
+      },
+      {
+        "title": "À retenir",
+        "kind": "takeaways",
+        "startSeconds": 101.72845833333334,
+        "endSeconds": 110.75445833333333
+      },
+      {
+        "title": "Conclusion · les repères à retenir",
+        "kind": "recap",
+        "startSeconds": 110.75445833333333,
+        "endSeconds": 130.61704166666667
+      }
+    ]
+  },
+  "piano-5": {
+    "scriptHash": "e7fe95442fe9cd15026089f1d68aacfb67ace9a297221d97bb961f04e7069512",
+    "sections": [
+      {
+        "title": "Introduction",
+        "kind": "intro",
+        "startSeconds": 0.0,
+        "endSeconds": 19.465958333333333
+      },
+      {
+        "title": "Au programme",
+        "kind": "roadmap",
+        "startSeconds": 19.465958333333333,
+        "endSeconds": 36.713875
+      },
+      {
+        "title": "Chapitre 1 · La basse pose les fondations",
+        "kind": "chapter",
+        "startSeconds": 36.713875,
+        "endSeconds": 53.00383333333333
+      },
+      {
+        "title": "Chapitre 2 · Un accompagnement régulier",
+        "kind": "chapter",
+        "startSeconds": 53.00383333333333,
+        "endSeconds": 69.14583333333333
+      },
+      {
+        "title": "Chapitre 3 · Équilibrer les deux mains",
+        "kind": "chapter",
+        "startSeconds": 69.14583333333333,
+        "endSeconds": 84.15045833333333
+      },
+      {
+        "title": "À toi de jouer · La basse sur les temps forts",
+        "kind": "practice",
+        "startSeconds": 84.15045833333333,
+        "endSeconds": 99.51375
+      },
+      {
+        "title": "À retenir",
+        "kind": "takeaways",
+        "startSeconds": 99.51375,
+        "endSeconds": 107.98508333333334
+      },
+      {
+        "title": "Conclusion · les repères à retenir",
+        "kind": "recap",
+        "startSeconds": 107.98508333333334,
+        "endSeconds": 129.02366666666666
+      }
+    ]
+  },
+  "history-3": {
+    "scriptHash": "8663b386d1de56ddba7d43542651eddf3766c62fc4871018c6c44daf85ed6e0b",
+    "sections": [
+      {
+        "title": "Introduction",
+        "kind": "intro",
+        "startSeconds": 0.0,
+        "endSeconds": 20.135958333333335
+      },
+      {
+        "title": "Au programme",
+        "kind": "roadmap",
+        "startSeconds": 20.135958333333335,
+        "endSeconds": 39.77920833333334
+      },
+      {
+        "title": "Chapitre 1 · Pourquoi le piano du XIXe siècle devient plus puissant",
+        "kind": "chapter",
+        "startSeconds": 39.77920833333334,
+        "endSeconds": 77.76716666666667
+      },
+      {
+        "title": "Chapitre 2 · Chopin et Liszt : des écritures liées au nouvel instrument",
+        "kind": "chapter",
+        "startSeconds": 77.76716666666667,
+        "endSeconds": 116.54516666666666
+      },
+      {
+        "title": "Chapitre 3 · Quand la technique sert l’expression",
+        "kind": "chapter",
+        "startSeconds": 116.54516666666666,
+        "endSeconds": 153.81716666666668
+      },
+      {
+        "title": "À toi de jouer · Un motif expressif",
+        "kind": "practice",
+        "startSeconds": 153.81716666666668,
+        "endSeconds": 169.26579166666667
+      },
+      {
+        "title": "À retenir",
+        "kind": "takeaways",
+        "startSeconds": 169.26579166666667,
+        "endSeconds": 188.42441666666667
+      },
+      {
+        "title": "Conclusion · les repères à retenir",
+        "kind": "recap",
+        "startSeconds": 188.42441666666667,
+        "endSeconds": 212.408375
+      }
+    ]
+  },
+  "styles-3": {
+    "scriptHash": "d6a6529ba834dd950e8cb5cbfd956e2bb5c7bf8f9c9f789605c53cdcf94e2b5d",
+    "sections": [
+      {
+        "title": "Introduction",
+        "kind": "intro",
+        "startSeconds": 0.0,
+        "endSeconds": 19.985333333333333
+      },
+      {
+        "title": "Au programme",
+        "kind": "roadmap",
+        "startSeconds": 19.985333333333333,
+        "endSeconds": 37.74666666666667
+      },
+      {
+        "title": "Chapitre 1 · Une mélodie qui chante",
+        "kind": "chapter",
+        "startSeconds": 37.74666666666667,
+        "endSeconds": 53.606
+      },
+      {
+        "title": "Chapitre 2 · Le rubato, une liberté mesurée",
+        "kind": "chapter",
+        "startSeconds": 53.606,
+        "endSeconds": 71.98533333333333
+      },
+      {
+        "title": "Chapitre 3 · La pédale avec écoute",
+        "kind": "chapter",
+        "startSeconds": 71.98533333333333,
+        "endSeconds": 91.21666666666667
+      },
+      {
+        "title": "À toi de jouer · Une mélodie qui respire",
+        "kind": "practice",
+        "startSeconds": 91.21666666666667,
+        "endSeconds": 106.248
+      },
+      {
+        "title": "À retenir",
+        "kind": "takeaways",
+        "startSeconds": 106.248,
+        "endSeconds": 116.570625
+      },
+      {
+        "title": "Conclusion · les repères à retenir",
+        "kind": "recap",
+        "startSeconds": 116.570625,
+        "endSeconds": 136.75458333333333
+      }
+    ]
+  },
+  "solfege-4": {
+    "scriptHash": "476ab032f38bccbb5f51bf3f178ad26515d9cee02811b3c8fff7e14e4c4498d2",
+    "sections": [
+      {
+        "title": "Introduction",
+        "kind": "intro",
+        "startSeconds": 0.0,
+        "endSeconds": 20.2
+      },
+      {
+        "title": "Au programme",
+        "kind": "roadmap",
+        "startSeconds": 20.2,
+        "endSeconds": 36.836
+      },
+      {
+        "title": "Chapitre 1 · La clé de fa",
+        "kind": "chapter",
+        "startSeconds": 36.836,
+        "endSeconds": 52.449333333333335
+      },
+      {
+        "title": "Chapitre 2 · Les lignes de la portée",
+        "kind": "chapter",
+        "startSeconds": 52.449333333333335,
+        "endSeconds": 68.28733333333334
+      },
+      {
+        "title": "Chapitre 3 · Le lien avec la main gauche",
+        "kind": "chapter",
+        "startSeconds": 68.28733333333334,
+        "endSeconds": 85.172
+      },
+      {
+        "title": "À toi de jouer · La ligne de basse",
+        "kind": "practice",
+        "startSeconds": 85.172,
+        "endSeconds": 100.11129166666667
+      },
+      {
+        "title": "À retenir",
+        "kind": "takeaways",
+        "startSeconds": 100.11129166666667,
+        "endSeconds": 107.70795833333334
+      },
+      {
+        "title": "Conclusion · les repères à retenir",
+        "kind": "recap",
+        "startSeconds": 107.70795833333334,
+        "endSeconds": 127.48529166666667
+      }
+    ]
+  },
+  "theory-3": {
+    "scriptHash": "023fedff43f09f58dc217faf77da96a280a16579fce3e0818029edc270800a45",
+    "sections": [
+      {
+        "title": "Introduction",
+        "kind": "intro",
+        "startSeconds": 0.0,
+        "endSeconds": 20.468625
+      },
+      {
+        "title": "Au programme",
+        "kind": "roadmap",
+        "startSeconds": 20.468625,
+        "endSeconds": 37.716625
+      },
+      {
+        "title": "Chapitre 1 · Un demi-ton vers le haut",
+        "kind": "chapter",
+        "startSeconds": 37.716625,
+        "endSeconds": 53.919916666666666
+      },
+      {
+        "title": "Chapitre 2 · Un demi-ton vers le bas",
+        "kind": "chapter",
+        "startSeconds": 53.919916666666666,
+        "endSeconds": 70.71191666666667
+      },
+      {
+        "title": "Chapitre 3 · Attention à la tonalité",
+        "kind": "chapter",
+        "startSeconds": 70.71191666666667,
+        "endSeconds": 87.86520833333333
+      },
+      {
+        "title": "À toi de jouer · Entendre les altérations",
+        "kind": "practice",
+        "startSeconds": 87.86520833333333,
+        "endSeconds": 104.16983333333333
+      },
+      {
+        "title": "À retenir",
+        "kind": "takeaways",
+        "startSeconds": 104.16983333333333,
+        "endSeconds": 112.49183333333333
+      },
+      {
+        "title": "Conclusion · les repères à retenir",
+        "kind": "recap",
+        "startSeconds": 112.49183333333333,
+        "endSeconds": 133.1625
+      }
+    ]
+  },
+  "theory-4": {
+    "scriptHash": "b370623e4925c57fcd2be3bfe54699f46bc0080161b792ac73ac266a17d64d17",
+    "sections": [
+      {
+        "title": "Introduction",
+        "kind": "intro",
+        "startSeconds": 0.0,
+        "endSeconds": 20.707958333333334
+      },
+      {
+        "title": "Au programme",
+        "kind": "roadmap",
+        "startSeconds": 20.707958333333334,
+        "endSeconds": 37.994625
+      },
+      {
+        "title": "Chapitre 1 · La tonique comme maison",
+        "kind": "chapter",
+        "startSeconds": 37.994625,
+        "endSeconds": 55.008625
+      },
+      {
+        "title": "Chapitre 2 · La dominante crée une attente",
+        "kind": "chapter",
+        "startSeconds": 55.008625,
+        "endSeconds": 73.29995833333334
+      },
+      {
+        "title": "Chapitre 3 · Une cadence familière",
+        "kind": "chapter",
+        "startSeconds": 73.29995833333334,
+        "endSeconds": 90.14329166666667
+      },
+      {
+        "title": "À toi de jouer · La cadence Do–Sol–Do",
+        "kind": "practice",
+        "startSeconds": 90.14329166666667,
+        "endSeconds": 106.17591666666667
+      },
+      {
+        "title": "À retenir",
+        "kind": "takeaways",
+        "startSeconds": 106.17591666666667,
+        "endSeconds": 116.22120833333334
+      },
+      {
+        "title": "Conclusion · les repères à retenir",
+        "kind": "recap",
+        "startSeconds": 116.22120833333334,
+        "endSeconds": 136.32583333333332
+      }
+    ]
+  },
+  "piano-6": {
+    "scriptHash": "3b8cb0c571cec7bd6b41aaa1af1bdfd26de449a9589683c4c7b14fbd64b90370",
+    "sections": [
+      {
+        "title": "Introduction",
+        "kind": "intro",
+        "startSeconds": 0.0,
+        "endSeconds": 19.85
+      },
+      {
+        "title": "Au programme",
+        "kind": "roadmap",
+        "startSeconds": 19.85,
+        "endSeconds": 37.51929166666667
+      },
+      {
+        "title": "Chapitre 1 · Assembler par petits morceaux",
+        "kind": "chapter",
+        "startSeconds": 37.51929166666667,
+        "endSeconds": 54.90654166666667
+      },
+      {
+        "title": "Chapitre 2 · Écouter la coordination",
+        "kind": "chapter",
+        "startSeconds": 54.90654166666667,
+        "endSeconds": 70.8425
+      },
+      {
+        "title": "Chapitre 3 · Une pratique qui progresse",
+        "kind": "chapter",
+        "startSeconds": 70.8425,
+        "endSeconds": 87.525125
+      },
+      {
+        "title": "À toi de jouer · Un motif, deux rôles",
+        "kind": "practice",
+        "startSeconds": 87.525125,
+        "endSeconds": 102.75045833333333
+      },
+      {
+        "title": "À retenir",
+        "kind": "takeaways",
+        "startSeconds": 102.75045833333333,
+        "endSeconds": 111.47779166666666
+      },
+      {
+        "title": "Conclusion · les repères à retenir",
+        "kind": "recap",
+        "startSeconds": 111.47779166666666,
+        "endSeconds": 132.10579166666668
+      }
+    ]
+  },
+  "evaluation-2": {
+    "scriptHash": "97e9f271ebffded0b93d879b52143a5b9f0b9f84884cb386f906bdd848c4a530",
+    "sections": [
+      {
+        "title": "Introduction",
+        "kind": "intro",
+        "startSeconds": 0.0,
+        "endSeconds": 20.481291666666667
+      },
+      {
+        "title": "Au programme",
+        "kind": "roadmap",
+        "startSeconds": 20.481291666666667,
+        "endSeconds": 36.380583333333334
+      },
+      {
+        "title": "Chapitre 1 · Le bilan n’est pas une course",
+        "kind": "chapter",
+        "startSeconds": 36.380583333333334,
+        "endSeconds": 54.45591666666667
+      },
+      {
+        "title": "Chapitre 2 · Transformer un résultat en plan",
+        "kind": "chapter",
+        "startSeconds": 54.45591666666667,
+        "endSeconds": 71.263875
+      },
+      {
+        "title": "À toi de jouer · Le motif de concentration",
+        "kind": "practice",
+        "startSeconds": 71.263875,
+        "endSeconds": 85.93854166666667
+      },
+      {
+        "title": "À retenir",
+        "kind": "takeaways",
+        "startSeconds": 85.93854166666667,
+        "endSeconds": 93.193875
+      },
+      {
+        "title": "Conclusion · les repères à retenir",
+        "kind": "recap",
+        "startSeconds": 93.193875,
+        "endSeconds": 114.17120833333334
+      }
+    ]
+  },
+  "styles-4": {
+    "scriptHash": "361bdb2c0a45a3a9db9c19a9f306ee0b534d8053de7ca1fd5bab840bc97c1267",
+    "sections": [
+      {
+        "title": "Introduction",
+        "kind": "intro",
+        "startSeconds": 0.0,
+        "endSeconds": 20.39925
+      },
+      {
+        "title": "Au programme",
+        "kind": "roadmap",
+        "startSeconds": 20.39925,
+        "endSeconds": 38.651916666666665
+      },
+      {
+        "title": "Chapitre 1 · Le blues, une forme et un langage",
+        "kind": "chapter",
+        "startSeconds": 38.651916666666665,
+        "endSeconds": 57.37525
+      },
+      {
+        "title": "Chapitre 2 · Le swing se ressent",
+        "kind": "chapter",
+        "startSeconds": 57.37525,
+        "endSeconds": 76.26658333333333
+      },
+      {
+        "title": "Chapitre 3 · Question, réponse, couleur",
+        "kind": "chapter",
+        "startSeconds": 76.26658333333333,
+        "endSeconds": 94.57925
+      },
+      {
+        "title": "À toi de jouer · Question et réponse blues",
+        "kind": "practice",
+        "startSeconds": 94.57925,
+        "endSeconds": 111.23254166666666
+      },
+      {
+        "title": "À retenir",
+        "kind": "takeaways",
+        "startSeconds": 111.23254166666666,
+        "endSeconds": 122.089125
+      },
+      {
+        "title": "Conclusion · les repères à retenir",
+        "kind": "recap",
+        "startSeconds": 122.089125,
+        "endSeconds": 144.146375
+      }
+    ]
+  },
+  "history-4": {
+    "scriptHash": "7a5129a8ee945ee0c655f5657bd13809b49f11c04fe1784e9d54e117cc694d38",
+    "sections": [
+      {
+        "title": "Introduction",
+        "kind": "intro",
+        "startSeconds": 0.0,
+        "endSeconds": 20.552583333333335
+      },
+      {
+        "title": "Au programme",
+        "kind": "roadmap",
+        "startSeconds": 20.552583333333335,
+        "endSeconds": 39.97391666666667
+      },
+      {
+        "title": "Chapitre 1 · De nouvelles couleurs sans une seule école",
+        "kind": "chapter",
+        "startSeconds": 39.97391666666667,
+        "endSeconds": 79.19991666666667
+      },
+      {
+        "title": "Chapitre 2 · Des traditions différentes, pas un seul « style moderne »",
+        "kind": "chapter",
+        "startSeconds": 79.19991666666667,
+        "endSeconds": 118.36391666666667
+      },
+      {
+        "title": "Chapitre 3 · Acoustique, électrique ou numérique ?",
+        "kind": "chapter",
+        "startSeconds": 118.36391666666667,
+        "endSeconds": 158.36125
+      },
+      {
+        "title": "À toi de jouer · Explorer trois couleurs",
+        "kind": "practice",
+        "startSeconds": 158.36125,
+        "endSeconds": 174.99520833333332
+      },
+      {
+        "title": "À retenir",
+        "kind": "takeaways",
+        "startSeconds": 174.99520833333332,
+        "endSeconds": 194.46116666666666
+      },
+      {
+        "title": "Conclusion · les repères à retenir",
+        "kind": "recap",
+        "startSeconds": 194.46116666666666,
+        "endSeconds": 228.88383333333334
+      }
+    ]
+  },
+  "styles-5": {
+    "scriptHash": "b67125bd221d8a28d0f4fc5455759642eb3d06eac19638dada017cd6a4ded392",
+    "sections": [
+      {
+        "title": "Introduction",
+        "kind": "intro",
+        "startSeconds": 0.0,
+        "endSeconds": 19.945333333333334
+      },
+      {
+        "title": "Au programme",
+        "kind": "roadmap",
+        "startSeconds": 19.945333333333334,
+        "endSeconds": 37.05533333333333
+      },
+      {
+        "title": "Chapitre 1 · La grille d’accords",
+        "kind": "chapter",
+        "startSeconds": 37.05533333333333,
+        "endSeconds": 53.11933333333333
+      },
+      {
+        "title": "Chapitre 2 · Un motif adapté au morceau",
+        "kind": "chapter",
+        "startSeconds": 53.11933333333333,
+        "endSeconds": 70.224625
+      },
+      {
+        "title": "Chapitre 3 · Écouter l’ensemble",
+        "kind": "chapter",
+        "startSeconds": 70.224625,
+        "endSeconds": 87.69129166666667
+      },
+      {
+        "title": "À toi de jouer · Un accompagnement régulier",
+        "kind": "practice",
+        "startSeconds": 87.69129166666667,
+        "endSeconds": 102.92591666666667
+      },
+      {
+        "title": "À retenir",
+        "kind": "takeaways",
+        "startSeconds": 102.92591666666667,
+        "endSeconds": 112.88658333333333
+      },
+      {
+        "title": "Conclusion · les repères à retenir",
+        "kind": "recap",
+        "startSeconds": 112.88658333333333,
+        "endSeconds": 133.8165
+      }
+    ]
+  },
+  "technique-3": {
+    "scriptHash": "8cca676c6f1d166cf79a324da97575ad2c26c9ff8527e784a2563b818f0d5309",
+    "sections": [
+      {
+        "title": "Introduction",
+        "kind": "intro",
+        "startSeconds": 0.0,
+        "endSeconds": 20.371958333333332
+      },
+      {
+        "title": "Au programme",
+        "kind": "roadmap",
+        "startSeconds": 20.371958333333332,
+        "endSeconds": 37.71395833333333
+      },
+      {
+        "title": "Chapitre 1 · Ce que fait la pédale forte",
+        "kind": "chapter",
+        "startSeconds": 37.71395833333333,
+        "endSeconds": 57.02129166666667
+      },
+      {
+        "title": "Chapitre 2 · Changer avec l’harmonie",
+        "kind": "chapter",
+        "startSeconds": 57.02129166666667,
+        "endSeconds": 74.90125
+      },
+      {
+        "title": "Chapitre 3 · Écouter avant de pédaler",
+        "kind": "chapter",
+        "startSeconds": 74.90125,
+        "endSeconds": 93.61191666666667
+      },
+      {
+        "title": "À toi de jouer · Écouter le changement d’accord",
+        "kind": "practice",
+        "startSeconds": 93.61191666666667,
+        "endSeconds": 110.45125
+      },
+      {
+        "title": "À retenir",
+        "kind": "takeaways",
+        "startSeconds": 110.45125,
+        "endSeconds": 120.08858333333333
+      },
+      {
+        "title": "Conclusion · les repères à retenir",
+        "kind": "recap",
+        "startSeconds": 120.08858333333333,
+        "endSeconds": 140.94254166666667
+      }
+    ]
+  },
+  "improvisation-1": {
+    "scriptHash": "bf6e16cf6ebc8f0ddf4b4a4a97275a391d1cced8f4f73e4bc2d313982e4ff414",
+    "sections": [
+      {
+        "title": "Introduction",
+        "kind": "intro",
+        "startSeconds": 0.0,
+        "endSeconds": 20.417291666666667
+      },
+      {
+        "title": "Au programme",
+        "kind": "roadmap",
+        "startSeconds": 20.417291666666667,
+        "endSeconds": 38.13520833333333
+      },
+      {
+        "title": "Chapitre 1 · Limiter pour inventer",
+        "kind": "chapter",
+        "startSeconds": 38.13520833333333,
+        "endSeconds": 54.867875
+      },
+      {
+        "title": "Chapitre 2 · Créer une question et une réponse",
+        "kind": "chapter",
+        "startSeconds": 54.867875,
+        "endSeconds": 72.86783333333334
+      },
+      {
+        "title": "Chapitre 3 · Écouter et transformer",
+        "kind": "chapter",
+        "startSeconds": 72.86783333333334,
+        "endSeconds": 90.82179166666667
+      },
+      {
+        "title": "À toi de jouer · Question et réponse",
+        "kind": "practice",
+        "startSeconds": 90.82179166666667,
+        "endSeconds": 106.51441666666666
+      },
+      {
+        "title": "À retenir",
+        "kind": "takeaways",
+        "startSeconds": 106.51441666666666,
+        "endSeconds": 116.27975
+      },
+      {
+        "title": "Conclusion · les repères à retenir",
+        "kind": "recap",
+        "startSeconds": 116.27975,
+        "endSeconds": 137.14641666666665
+      }
+    ]
+  },
+  "repertoire-3": {
+    "scriptHash": "d5cc6df8dceb82a2a514142d9446a2d1b0396bd67b0dba9143548a41f8a3c4d7",
+    "sections": [
+      {
+        "title": "Introduction",
+        "kind": "intro",
+        "startSeconds": 0.0,
+        "endSeconds": 20.630625
+      },
+      {
+        "title": "Au programme",
+        "kind": "roadmap",
+        "startSeconds": 20.630625,
+        "endSeconds": 37.225875
+      },
+      {
+        "title": "Chapitre 1 · Comprendre la phrase",
+        "kind": "chapter",
+        "startSeconds": 37.225875,
+        "endSeconds": 54.213166666666666
+      },
+      {
+        "title": "Chapitre 2 · Choisir une nuance",
+        "kind": "chapter",
+        "startSeconds": 54.213166666666666,
+        "endSeconds": 70.96179166666667
+      },
+      {
+        "title": "Chapitre 3 · Jouer pour quelqu’un",
+        "kind": "chapter",
+        "startSeconds": 70.96179166666667,
+        "endSeconds": 88.71245833333333
+      },
+      {
+        "title": "À toi de jouer · Une phrase racontée",
+        "kind": "practice",
+        "startSeconds": 88.71245833333333,
+        "endSeconds": 104.493125
+      },
+      {
+        "title": "À retenir",
+        "kind": "takeaways",
+        "startSeconds": 104.493125,
+        "endSeconds": 114.02845833333333
+      },
+      {
+        "title": "Conclusion · les repères à retenir",
+        "kind": "recap",
+        "startSeconds": 114.02845833333333,
+        "endSeconds": 135.04170833333333
+      }
+    ]
+  },
+  "composition-1": {
+    "scriptHash": "b9fc9c122fb9412ae45d80fb344b3f972525aadb91a5de5a2b2e964be7a8305b",
+    "sections": [
+      {
+        "title": "Introduction",
+        "kind": "intro",
+        "startSeconds": 0.0,
+        "endSeconds": 20.541291666666666
+      },
+      {
+        "title": "Au programme",
+        "kind": "roadmap",
+        "startSeconds": 20.541291666666666,
+        "endSeconds": 39.148625
+      },
+      {
+        "title": "Chapitre 1 · La partie A : une idée reconnaissable",
+        "kind": "chapter",
+        "startSeconds": 39.148625,
+        "endSeconds": 55.27458333333333
+      },
+      {
+        "title": "Chapitre 2 · La partie B : un contraste",
+        "kind": "chapter",
+        "startSeconds": 55.27458333333333,
+        "endSeconds": 72.05720833333334
+      },
+      {
+        "title": "Chapitre 3 · Le retour : A transformé",
+        "kind": "chapter",
+        "startSeconds": 72.05720833333334,
+        "endSeconds": 88.991125
+      },
+      {
+        "title": "À toi de jouer · Ta forme A–B–A",
+        "kind": "practice",
+        "startSeconds": 88.991125,
+        "endSeconds": 105.73645833333333
+      },
+      {
+        "title": "À retenir",
+        "kind": "takeaways",
+        "startSeconds": 105.73645833333333,
+        "endSeconds": 115.40241666666667
+      },
+      {
+        "title": "Conclusion · les repères à retenir",
+        "kind": "recap",
+        "startSeconds": 115.40241666666667,
+        "endSeconds": 136.38170833333334
+      }
+    ]
+  },
+  "ensemble-1": {
+    "scriptHash": "fcad74f197dde1a25b91ff7e81f5af80f3ea0ff0c960ed37e476eb063bd96bd2",
+    "sections": [
+      {
+        "title": "Introduction",
+        "kind": "intro",
+        "startSeconds": 0.0,
+        "endSeconds": 20.149958333333334
+      },
+      {
+        "title": "Au programme",
+        "kind": "roadmap",
+        "startSeconds": 20.149958333333334,
+        "endSeconds": 37.005291666666665
+      },
+      {
+        "title": "Chapitre 1 · Écouter avant de jouer",
+        "kind": "chapter",
+        "startSeconds": 37.005291666666665,
+        "endSeconds": 53.197208333333336
+      },
+      {
+        "title": "Chapitre 2 · Tenir un rôle clair",
+        "kind": "chapter",
+        "startSeconds": 53.197208333333336,
+        "endSeconds": 70.09454166666667
+      },
+      {
+        "title": "Chapitre 3 · Communiquer en musique",
+        "kind": "chapter",
+        "startSeconds": 70.09454166666667,
+        "endSeconds": 87.34183333333333
+      },
+      {
+        "title": "À toi de jouer · Un accompagnement stable",
+        "kind": "practice",
+        "startSeconds": 87.34183333333333,
+        "endSeconds": 103.83979166666667
+      },
+      {
+        "title": "À retenir",
+        "kind": "takeaways",
+        "startSeconds": 103.83979166666667,
+        "endSeconds": 113.999125
+      },
+      {
+        "title": "Conclusion · les repères à retenir",
+        "kind": "recap",
+        "startSeconds": 113.999125,
+        "endSeconds": 135.19841666666667
+      }
+    ]
+  },
+  "evaluation-3": {
+    "scriptHash": "6cf521689ecf9cc67166e2e6b554c06473a6d58b7dace748a850db259dde714d",
+    "sections": [
+      {
+        "title": "Introduction",
+        "kind": "intro",
+        "startSeconds": 0.0,
+        "endSeconds": 20.848625
+      },
+      {
+        "title": "Au programme",
+        "kind": "roadmap",
+        "startSeconds": 20.848625,
+        "endSeconds": 37.779916666666665
+      },
+      {
+        "title": "Chapitre 1 · Un bilan, pas un jugement",
+        "kind": "chapter",
+        "startSeconds": 37.779916666666665,
+        "endSeconds": 54.31454166666666
+      },
+      {
+        "title": "Chapitre 2 · Relier les matières",
+        "kind": "chapter",
+        "startSeconds": 54.31454166666666,
+        "endSeconds": 70.09254166666666
+      },
+      {
+        "title": "Chapitre 3 · Choisir la suite",
+        "kind": "chapter",
+        "startSeconds": 70.09254166666666,
+        "endSeconds": 87.4325
+      },
+      {
+        "title": "À toi de jouer · Échauffement avant le bilan",
+        "kind": "practice",
+        "startSeconds": 87.4325,
+        "endSeconds": 102.61316666666667
+      },
+      {
+        "title": "À retenir",
+        "kind": "takeaways",
+        "startSeconds": 102.61316666666667,
+        "endSeconds": 112.44845833333333
+      },
+      {
+        "title": "Conclusion · les repères à retenir",
+        "kind": "recap",
+        "startSeconds": 112.44845833333333,
+        "endSeconds": 127.73979166666666
+      }
+    ]
+  },
+  "history-5": {
+    "scriptHash": "a77ea49195185dbe371c7a0877e9c5de1e44a9aa8a0ad67634e0f8bdfff1a29f",
+    "sections": [
+      {
+        "title": "Introduction",
+        "kind": "intro",
+        "startSeconds": 0.0,
+        "endSeconds": 20.51125
+      },
+      {
+        "title": "Au programme",
+        "kind": "roadmap",
+        "startSeconds": 20.51125,
+        "endSeconds": 42.15858333333333
+      },
+      {
+        "title": "Chapitre 1 · Dessiner la caisse et préparer la table d’harmonie",
+        "kind": "chapter",
+        "startSeconds": 42.15858333333333,
+        "endSeconds": 84.743875
+      },
+      {
+        "title": "Chapitre 2 · Installer le cadre et tendre les cordes",
+        "kind": "chapter",
+        "startSeconds": 84.743875,
+        "endSeconds": 126.74120833333333
+      },
+      {
+        "title": "Chapitre 3 · Fabriquer le clavier et régler la mécanique",
+        "kind": "chapter",
+        "startSeconds": 126.74120833333333,
+        "endSeconds": 167.86583333333334
+      },
+      {
+        "title": "Chapitre 4 · Assembler, accorder, harmoniser et vérifier",
+        "kind": "chapter",
+        "startSeconds": 167.86583333333334,
+        "endSeconds": 213.5285
+      },
+      {
+        "title": "À toi de jouer · Suivre l’énergie d’une note",
+        "kind": "practice",
+        "startSeconds": 213.5285,
+        "endSeconds": 229.97379166666667
+      },
+      {
+        "title": "À retenir",
+        "kind": "takeaways",
+        "startSeconds": 229.97379166666667,
+        "endSeconds": 248.14379166666666
+      },
+      {
+        "title": "Conclusion · les repères à retenir",
+        "kind": "recap",
+        "startSeconds": 248.14379166666666,
+        "endSeconds": 284.98179166666665
+      }
+    ]
+  }
+}

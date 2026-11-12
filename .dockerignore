@@ -1,0 +1,15 @@
+node_modules
+frontend/node_modules
+frontend/dist
+video/node_modules
+video/.venv
+video/build
+video/models
+video/public
+.venv
+__pycache__
+**/__pycache__
+data
+.git
+.DS_Store
+npm-debug.log

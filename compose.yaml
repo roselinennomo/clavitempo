@@ -1,0 +1,16 @@
+services:
+  tempo:
+    build: .
+    container_name: tempo-piano
+    restart: unless-stopped
+    ports:
+      - "3000:3000"
+    environment:
+      DB_PATH: /app/data/tempo.sqlite
+      SESSION_SECRET: ${SESSION_SECRET:-tempo-local-dev-change-me}
+      HTTPS: ${HTTPS:-false}
+    volumes:
+      - tempo_data:/app/data
+
+volumes:
+  tempo_data:
